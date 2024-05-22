@@ -1,14 +1,14 @@
 body {
- background-color: #ffb7df;
+ background-color: #f50dfd;
 }
 .main {
- background-color: #ffb7df;
+ background-color: #f50dfd;
  width: 555px;
  height: 1060px;
  margin: 0 auto;
 }
 .photo {
- background-color: #ffb7df;
+ background-color: #f50dfd;
  clear:both;
  float: left;
  padding: 5px;
@@ -16,7 +16,8 @@ body {
  border-radius: 40px;
 }
 .kontakt {
- background-color: #a0d1a0a4;
+ background-color: #f50dfd;
+ border: 3px solid black;
  width: 260px;
  clear:both;
  float: left;
@@ -25,7 +26,8 @@ body {
  border-radius: 40px;
 }
 .langyage {
- background-color: #d0ff00e6;
+ background-color: #f50dfd;
+ border: 3px solid black;
  width: 260px;
  clear:both;
  float: left;
@@ -34,7 +36,8 @@ body {
  border-radius: 40px;
 }
 .napr {
- background-color: #d72b2b75;
+ background-color: #f50dfd;
+ border: 3px solid black;
  width: 260px;
  clear:both;
  float: left;
@@ -43,7 +46,8 @@ body {
  border-radius: 40px;
 }
 .prof {
- background-color: #ADDFAD;
+ background-color: #f50dfd;
+ border: 3px solid black;
  width: 260px;
  clear:both;
  float: left;
@@ -52,7 +56,8 @@ body {
  border-radius: 40px;
 }
 .interes {
- background-color: #00cfea;
+ background-color:#f50dfd;
+ border: 3px solid black;
  width: 260px;
  clear:both;
  float: left;
@@ -61,7 +66,7 @@ body {
  border-radius: 40px;
 }
 .me {
- background-color: #2107e978;
+ background-color: #0dd7f178;
  width: 260px;
  display: flex;
  flex-direction: column-reverse;
@@ -94,7 +99,7 @@ height: 200px;
  border-radius: 40px;
 }
 .program {
- background-color: #9b0ae9b0;
+ background-color: #f6ff00;
  width: 260px;
  height: 200px;
  display: flex;
@@ -119,4 +124,3 @@ p {
  font-family: Verdana, Geneva, Tahoma, sans-serif;
  color: #013220;
 }
-
